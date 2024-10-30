@@ -1,7 +1,7 @@
-# Data-Mining
+# Data Mining Repository Table of Contents
 
 
-## 2024 Fall : Varun Thakur
+## 2024 Fall for Varun Thakur
 
 | Assignments               | Topic                           | Programming Language | Algorithms                                                  |
 |---------------------------|---------------------------------|----------------------|-------------------------------------------------------------|
