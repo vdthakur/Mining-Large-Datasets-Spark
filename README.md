@@ -1,7 +1,7 @@
-# Data Mining Repository Table of Contents
+# Mining Large Datasets Repository Table of Contents
 
 
-## 2024 Fall for Varun Thakur
+## Varun Thakur
 
 | Assignments               | Topic                           | Programming Language | Algorithms                                                  |
 |---------------------------|---------------------------------|----------------------|-------------------------------------------------------------|
