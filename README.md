@@ -11,4 +11,4 @@
 | 4                         | Social Network communities      | Python, Spark        | Girvan-Newman, label propagation                            |
 | 5                         | Streaming Data                       | Python, Spark        | Bloom filter, Flajolet Martin, Reservoir Sampling                         |
 | 6                         | Clustering                  | Python, Spark        |    K-Means, Bradley-Fayyad-Reina (BFR)        |
-| Project | Hybrid Recommendation System    | Python, Spark        | Improve Recommendation system in HW3 by using model-based and hybrid approaches |
+
